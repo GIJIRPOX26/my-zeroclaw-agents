@@ -1,28 +1,26 @@
-# Gp's AI Lab
 
-Built using the ZeroClaw framework.
+# Gp — AI Systems Builder
 
-## What this is
-This is my personal AI agent system.
+I design and deploy practical AI agents for real-world decisions.
 
-It documents:
-- how I design agents
-- what works and fails
-- real experiments building decision systems
+## Systems built
 
-## Current Agent
+### RealEstate_Nova
+- Mortgage affordability analysis
+- Decision classification (safe / stretched / risky)
+- Built with Flask + structured logic
 
-### Nova — Content Alchemist
+### Nova (Content Alchemist)
 - Filters low ROI content
-- Extracts business insights
-- Focused on Company of One and AI leverage
+- Extracts business insight
+- Focus: solo operators + leverage
 
-## What you'll find here
+## What this lab shows
 
-- Agents → how they are built
-- Journal → what broke and how I fixed it
-- Showcase → working systems and UI
+- Agent design (identity, soul, style)
+- Failures and fixes
+- Real deployments, not demos
 
-## Goal
+## Current focus
 
-Build real AI systems, not demos.
+Building decision systems that replace guesswork with structured evaluation.
