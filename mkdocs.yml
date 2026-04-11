@@ -22,3 +22,5 @@ nav:
       - Style: 02-Agents/Nova/STYLE.md
   - Journal:
       - Week 3 Lessons: 03-Journal/week3-lessons.md
+  - Showcase:
+      - Real Estate Analyzer: 04-Showcase/real-estate-tool.md
