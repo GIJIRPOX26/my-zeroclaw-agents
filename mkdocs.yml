@@ -1,0 +1,7 @@
+site_name: Gp's ZeroClaw Lab
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
