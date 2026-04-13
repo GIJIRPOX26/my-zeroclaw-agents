@@ -5,3 +5,9 @@ theme:
 
 nav:
   - Home: index.md
+  - Architecture:
+      - Identity: 02-Agents/Nova/IDENTITY.md
+      - Soul: 02-Agents/Nova/SOUL.md
+      - Skills: 02-Agents/Nova/SKILL.md
+      - User: 02-Agents/Nova/USER.md
+      - Style: 02-Agents/Nova/STYLE.md
