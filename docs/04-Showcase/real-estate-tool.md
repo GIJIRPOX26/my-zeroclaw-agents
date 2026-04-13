@@ -26,3 +26,11 @@ A structured tool that evaluates affordability and investment potential.
 
 ## Status
 Working prototype tested locally.
+
+
+## Sample Logic
+```python
+def calculate_monthly_payment(price, rate, years):
+    monthly_rate = rate / 12
+    payments = years * 12
+    return price * (monthly_rate * (1 + monthly_rate) ** payments) / ((1 + monthly_rate) ** payments - 1)
