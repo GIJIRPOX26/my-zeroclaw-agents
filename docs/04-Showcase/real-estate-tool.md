@@ -1,5 +1,5 @@
 # Real Estate Analyzer
-
+![Real Estate UI](images/F2D538B4-ED7B-4DCE-BF14-5400C075A5A1.png)
 ## Problem
 Most buyers guess what they can afford and underestimate risk.
 
